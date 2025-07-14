@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <feature>
+      <cleanName>Aeolis Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>88.99</diameter>
+      <centerlatitude>-5.08</centerlatitude>
+      <centerlongitude>137.85</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Alba Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>548.02</diameter>
+      <centerlatitude>41.08</centerlatitude>
+      <centerlongitude>249.29</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Anseris Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>52.51</diameter>
+      <centerlatitude>-29.81</centerlatitude>
+      <centerlongitude>86.65</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Aonia Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>27.07</diameter>
+      <centerlatitude>-53.33</centerlatitude>
+      <centerlongitude>272.08</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Apollinaris Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>275.4</diameter>
+      <centerlatitude>-9.17</centerlatitude>
+      <centerlongitude>174.79</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Argyre Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>60.58</diameter>
+      <centerlatitude>-50.37</centerlatitude>
+      <centerlongitude>311.91</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Arsia Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>470</diameter>
+      <centerlatitude>-8.26</centerlatitude>
+      <centerlongitude>239.91</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Ascraeus Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>456.4</diameter>
+      <centerlatitude>11.92</centerlatitude>
+      <centerlongitude>255.92</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Ausonia Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>333.13</diameter>
+      <centerlatitude>-25.42</centerlatitude>
+      <centerlongitude>99.04</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Australe Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>411.67</diameter>
+      <centerlatitude>-80.19</centerlatitude>
+      <centerlongitude>14.05</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Centauri Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>271</diameter>
+      <centerlatitude>-38.67</centerlatitude>
+      <centerlongitude>95.52</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Chalce Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>100</diameter>
+      <centerlatitude>-53.72</centerlatitude>
+      <centerlongitude>322.35</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Charitum Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>933.54</diameter>
+      <centerlatitude>-58.1</centerlatitude>
+      <centerlongitude>319.71</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Chronius Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>56.14</diameter>
+      <centerlatitude>-61.49</centerlatitude>
+      <centerlongitude>178.01</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Coprates Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>350</diameter>
+      <centerlatitude>-13</centerlatitude>
+      <centerlongitude>294.61</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Coronae Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>247.4</diameter>
+      <centerlatitude>-34.31</centerlatitude>
+      <centerlongitude>86.11</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Echus Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>397.06</diameter>
+      <centerlatitude>7.81</centerlatitude>
+      <centerlongitude>282.05</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Electris Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>104.47</diameter>
+      <centerlatitude>-45.67</centerlatitude>
+      <centerlongitude>152.73</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Elysium Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>401</diameter>
+      <centerlatitude>25.02</centerlatitude>
+      <centerlongitude>147.21</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Erebus Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>811.67</diameter>
+      <centerlatitude>35.66</centerlatitude>
+      <centerlongitude>185.02</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Eridania Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>143.29</diameter>
+      <centerlatitude>-57.02</centerlatitude>
+      <centerlongitude>137.86</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Euripus Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>88.91</diameter>
+      <centerlatitude>-44.82</centerlatitude>
+      <centerlongitude>105.18</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Galaxius Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>22.23</diameter>
+      <centerlatitude>34.76</centerlatitude>
+      <centerlongitude>142.31</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Geryon Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>377.83</diameter>
+      <centerlatitude>-7.72</centerlatitude>
+      <centerlongitude>278.38</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Gonnus Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>49.38</diameter>
+      <centerlatitude>41.21</centerlatitude>
+      <centerlongitude>269.12</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Hadriacus Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>450</diameter>
+      <centerlatitude>-31.29</centerlatitude>
+      <centerlongitude>91.86</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Hellas Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>159.65</diameter>
+      <centerlatitude>-37.63</centerlatitude>
+      <centerlongitude>97.61</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Hellespontus Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>711.46</diameter>
+      <centerlatitude>-44.37</centerlatitude>
+      <centerlongitude>42.76</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Hibes Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>140</diameter>
+      <centerlatitude>3.79</centerlatitude>
+      <centerlongitude>171.34</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Horarum Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>20.5</diameter>
+      <centerlatitude>-51.05</centerlatitude>
+      <centerlongitude>323.44</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Labeatis Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>42.78</diameter>
+      <centerlatitude>37.48</centerlatitude>
+      <centerlongitude>284.14</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Libya Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>1043.63</diameter>
+      <centerlatitude>1.44</centerlatitude>
+      <centerlongitude>88.23</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Nectaris Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>220</diameter>
+      <centerlatitude>-14.64</centerlatitude>
+      <centerlongitude>305.35</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Nereidum Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>1142.58</diameter>
+      <centerlatitude>-37.57</centerlatitude>
+      <centerlongitude>316.79</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Oceanidum Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>33.39</diameter>
+      <centerlatitude>-54.93</centerlatitude>
+      <centerlongitude>318.77</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Octantis Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>19.09</diameter>
+      <centerlatitude>-55.26</centerlatitude>
+      <centerlongitude>317.15</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Olympus Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>610.13</diameter>
+      <centerlatitude>18.65</centerlatitude>
+      <centerlongitude>226.2</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Pavonis Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>366.53</diameter>
+      <centerlatitude>1.48</centerlatitude>
+      <centerlongitude>247.04</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Peneus Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>0</diameter>
+      <centerlatitude>-30.9</centerlatitude>
+      <centerlongitude>86.1</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Peraea Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>14.94</diameter>
+      <centerlatitude>-31.08</centerlatitude>
+      <centerlongitude>86.11</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Phlegra Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>1350.65</diameter>
+      <centerlatitude>40.4</centerlatitude>
+      <centerlongitude>163.71</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Pindus Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>16.3</diameter>
+      <centerlatitude>39.47</centerlatitude>
+      <centerlongitude>271.48</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Promethei Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>65.17</diameter>
+      <centerlatitude>-70.57</centerlatitude>
+      <centerlongitude>87.44</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Sirenum Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>122.86</diameter>
+      <centerlatitude>-38.22</centerlatitude>
+      <centerlongitude>212.15</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Sisyphi Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>200</diameter>
+      <centerlatitude>-69.65</centerlatitude>
+      <centerlongitude>13.08</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Syria Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>73.47</diameter>
+      <centerlatitude>-13.88</centerlatitude>
+      <centerlongitude>255.73</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Tanaica Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>178.55</diameter>
+      <centerlatitude>39.55</centerlatitude>
+      <centerlongitude>269.17</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Tartarus Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>1086.46</diameter>
+      <centerlatitude>15.46</centerlatitude>
+      <centerlongitude>167.54</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Tharsis Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>2058.91</diameter>
+      <centerlatitude>1.57</centerlatitude>
+      <centerlongitude>247.42</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Thyles Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>380</diameter>
+      <centerlatitude>-69.88</centerlatitude>
+      <centerlongitude>126.54</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Tyrrhena Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>107</diameter>
+      <centerlatitude>-24.15</centerlatitude>
+      <centerlongitude>101.1</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Tyrrhenus Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>269.77</diameter>
+      <centerlatitude>-21.63</centerlatitude>
+      <centerlongitude>105.88</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Uranius Mons</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>265.17</diameter>
+      <centerlatitude>26.9</centerlatitude>
+      <centerlongitude>267.85</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+    <feature>
+      <cleanName>Xanthe Montes</cleanName>
+      <target>MARS</target>
+      <system>MARS</system>
+      <diameter>499.32</diameter>
+      <centerlatitude>18.13</centerlatitude>
+      <centerlongitude>305.08</centerlongitude>
+      <featuretype code="MO">Mons, montes</featuretype>
+    </feature>
+</Defs>

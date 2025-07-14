@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <!-- ================ Basalt ================ -->
+
+  <ThingDef ParentName="UglyRockBase" Name="BasaltBase">
+    <defName>Basalt</defName>
+    <label>basalt</label>
+    <description>A dark, fine-grained volcanic rock. Very hard and dense.</description>
+    <graphicData>
+      <color>(80,75,80)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <mineableThing>ChunkBasalt</mineableThing>
+      <mineableDropChance>0.25</mineableDropChance>
+      <smoothedThing>SmoothedBasalt</smoothedThing>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="BasaltBase">
+    <defName>SmoothedBasalt</defName>
+    <label>smoothed basalt</label>
+    <description>A dark, glass-like volcanic rock polished to a high sheen.</description>
+    <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockSmooth_Atlas</texPath>
+    </graphicData>
+    <statBases>
+      <Beauty>1</Beauty>
+      <MarketValue>7</MarketValue>
+    </statBases>
+    <building>
+      <isNaturalRock>false</isNaturalRock>
+      <canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+      <artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+      <smoothedThing />
+      <paintable>true</paintable>
+    </building>
+    <saveCompressible>false</saveCompressible>
+    <repairEffect>Repair</repairEffect>
+  </ThingDef>
+
+  <ThingDef ParentName="ChunkRockBase">
+    <defName>ChunkBasalt</defName>
+    <label>basalt chunk</label>
+    <graphicData>
+      <color>(80,75,80)</color>
+    </graphicData>
+    <statBases>
+      <Mass>25</Mass>
+    </statBases>
+    <soundDrop>ChunkRock_Drop</soundDrop>
+    <butcherProducts>
+      <BlocksBasalt>20</BlocksBasalt>
+    </butcherProducts>
+  </ThingDef>
+
+  <ThingDef ParentName="StoneBlocksBase">
+    <defName>BlocksBasalt</defName>
+    <label>basalt blocks</label>
+    <description>Blocks of dense basalt. Basalt is a very hard stone.</description>
+    <graphicData>
+      <color>(80,75,80)</color>
+    </graphicData>
+    <statBases>
+      <Mass>1.25</Mass>
+      <SharpDamageMultiplier>0.65</SharpDamageMultiplier>
+    </statBases>
+    <stuffProps>
+      <color>(80,75,80)</color>
+      <soundImpactBullet>BulletImpact_Ground</soundImpactBullet>
+      <soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+      <soundImpactMelee>Pawn_Melee_Punch_HitBuilding_Stone</soundImpactMelee>
+      <stuffAdjective>basalt</stuffAdjective>
+      <statFactors>
+        <MaxHitPoints>1.7</MaxHitPoints>
+      </statFactors>
+      <canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+    </stuffProps>
+  </ThingDef>
+
+  <RecipeDef ParentName="MakeStoneBlocksBase">
+    <defName>Make_StoneBlocksBasalt</defName>
+    <label>make basalt blocks</label>
+    <description>Cuts basalt chunks into usable blocks.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ChunkBasalt</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ChunkBasalt</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BlocksBasalt>20</BlocksBasalt>
+    </products>
+  </RecipeDef>
+  
+
+</Defs>

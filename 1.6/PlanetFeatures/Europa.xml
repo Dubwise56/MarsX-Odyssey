@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <feature>
+    <cleanName>Adonis Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1560</diameter>
+    <centerlatitude>-61</centerlatitude>
+    <centerlongitude>237.4</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Agave Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1440</diameter>
+    <centerlatitude>12.8</centerlatitude>
+    <centerlongitude>86.9</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Agenor Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1496</diameter>
+    <centerlatitude>-43.8</centerlatitude>
+    <centerlongitude>146.5</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Aine</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>5</diameter>
+    <centerlatitude>-43</centerlatitude>
+    <centerlongitude>182.5</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Alphesiboea Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1438</diameter>
+    <centerlatitude>-25.1</centerlatitude>
+    <centerlongitude>184.1</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Amaethon</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1.7</diameter>
+    <centerlatitude>13.82</centerlatitude>
+    <centerlongitude>182.53</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Amergin</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>17</diameter>
+    <centerlatitude>-14.7</centerlatitude>
+    <centerlongitude>129.4</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Androgeos Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>723</diameter>
+    <centerlatitude>11.7</centerlatitude>
+    <centerlongitude>80.7</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Angus</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>4.5</diameter>
+    <centerlatitude>-12.6</centerlatitude>
+    <centerlongitude>284.9</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Annwn Regio</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2300</diameter>
+    <centerlatitude>20</centerlatitude>
+    <centerlongitude>40</centerlongitude>
+    <featuretype code="RE">Regio, regiones</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Argadnel Regio</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1900</diameter>
+    <centerlatitude>-14.6</centerlatitude>
+    <centerlongitude>151.5</centerlongitude>
+    <featuretype code="RE">Regio, regiones</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Argiope Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>689</diameter>
+    <centerlatitude>-1.7</centerlatitude>
+    <centerlongitude>164.4</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Arran Chaos</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>26</diameter>
+    <centerlatitude>13.4</centerlatitude>
+    <centerlongitude>279.5</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Asterius Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1943</diameter>
+    <centerlatitude>14.9</centerlatitude>
+    <centerlongitude>89.2</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Astypalaea Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>817</diameter>
+    <centerlatitude>-75.8</centerlatitude>
+    <centerlongitude>147.9</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Autonoe Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>760</diameter>
+    <centerlatitude>18.2</centerlatitude>
+    <centerlongitude>194.9</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Avagddu</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>10</diameter>
+    <centerlatitude>1.4</centerlatitude>
+    <centerlongitude>190.5</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Balgatan Regio</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2500</diameter>
+    <centerlatitude>-50</centerlatitude>
+    <centerlongitude>330</centerlongitude>
+    <featuretype code="RE">Regio, regiones</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Balor</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>4.8</diameter>
+    <centerlatitude>-52.8</centerlatitude>
+    <centerlongitude>262.2</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Belus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2437</diameter>
+    <centerlatitude>9.3</centerlatitude>
+    <centerlongitude>128.6</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Boeotia Macula</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>30</diameter>
+    <centerlatitude>-53.6</centerlatitude>
+    <centerlongitude>193.2</centerlongitude>
+    <featuretype code="MA">Macula, maculae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Bress</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>10</diameter>
+    <centerlatitude>37.64</centerlatitude>
+    <centerlongitude>261.34</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Brigid</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>9.5</diameter>
+    <centerlatitude>10.8</centerlatitude>
+    <centerlongitude>278.7</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Butterdon Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1900</diameter>
+    <centerlatitude>-44.7</centerlatitude>
+    <centerlongitude>359.9</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Cadmus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>3548</diameter>
+    <centerlatitude>38.7</centerlatitude>
+    <centerlongitude>168.3</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Callanish</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>107</diameter>
+    <centerlatitude>-16.7</centerlatitude>
+    <centerlongitude>25.5</centerlongitude>
+    <featuretype code="LG">Large ringed feature</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Camulus</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>4.5</diameter>
+    <centerlatitude>-26.5</centerlatitude>
+    <centerlongitude>278.9</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Castalia Macula</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>35</diameter>
+    <centerlatitude>-1.6</centerlatitude>
+    <centerlongitude>134.3</centerlongitude>
+    <featuretype code="MA">Macula, maculae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Chthonius Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2180</diameter>
+    <centerlatitude>-1.4</centerlatitude>
+    <centerlongitude>55.8</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Cilicia Flexus</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1312</diameter>
+    <centerlatitude>-59.5</centerlatitude>
+    <centerlongitude>188.3</centerlongitude>
+    <featuretype code="FE">Flexus, flexūs</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Cilix</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>15</diameter>
+    <centerlatitude>2.6</centerlatitude>
+    <centerlongitude>178.1</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Cliodhna</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>3</diameter>
+    <centerlatitude>-2.5</centerlatitude>
+    <centerlongitude>283.6</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Conamara Chaos</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>143.7</diameter>
+    <centerlatitude>9.7</centerlatitude>
+    <centerlongitude>87.3</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Corick Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1300</diameter>
+    <centerlatitude>17.8</centerlatitude>
+    <centerlongitude>341.7</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Cormac</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>4</diameter>
+    <centerlatitude>-36.9</centerlatitude>
+    <centerlongitude>271.9</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Cyclades Macula</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>107</diameter>
+    <centerlatitude>-62.5</centerlatitude>
+    <centerlongitude>168.7</centerlongitude>
+    <featuretype code="MA">Macula, maculae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Dagda</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>9.8</diameter>
+    <centerlatitude>37.35</centerlatitude>
+    <centerlongitude>191.26</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Deirdre</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>4.5</diameter>
+    <centerlatitude>-65.4</centerlatitude>
+    <centerlongitude>152.7</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Delphi Flexus</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>793</diameter>
+    <centerlatitude>-68.2</centerlatitude>
+    <centerlongitude>185.9</centerlongitude>
+    <featuretype code="FE">Flexus, flexūs</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Diarmuid</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>8.2</diameter>
+    <centerlatitude>-61.3</centerlatitude>
+    <centerlongitude>258</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Drizzlecomb Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1500</diameter>
+    <centerlatitude>7.7</centerlatitude>
+    <centerlongitude>248.3</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Drumskinny Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1375</diameter>
+    <centerlatitude>48.3</centerlatitude>
+    <centerlongitude>199</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Dyfed Regio</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1750</diameter>
+    <centerlatitude>10</centerlatitude>
+    <centerlongitude>110</centerlongitude>
+    <featuretype code="RE">Regio, regiones</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Dylan</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>5.3</diameter>
+    <centerlatitude>-55.3</centerlatitude>
+    <centerlongitude>275.6</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Echion Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1026</diameter>
+    <centerlatitude>-11.6</centerlatitude>
+    <centerlongitude>174.8</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Elathan</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2.5</diameter>
+    <centerlatitude>-31.9</centerlatitude>
+    <centerlongitude>280.2</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Eochaid</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>10.6</diameter>
+    <centerlatitude>-50.48</centerlatitude>
+    <centerlongitude>126.67</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Euphemus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1250</diameter>
+    <centerlatitude>-11.4</centerlatitude>
+    <centerlongitude>314.3</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Falga Regio</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2500</diameter>
+    <centerlatitude>30</centerlatitude>
+    <centerlongitude>150</centerlongitude>
+    <featuretype code="RE">Regio, regiones</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Glaukos Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1400</diameter>
+    <centerlatitude>57.8</centerlatitude>
+    <centerlongitude>129.1</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Gortyna Flexus</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>940</diameter>
+    <centerlatitude>-42.1</centerlatitude>
+    <centerlongitude>215.4</centerlongitude>
+    <featuretype code="FE">Flexus, flexūs</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Govannan</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>11.5</diameter>
+    <centerlatitude>-37.3</centerlatitude>
+    <centerlongitude>57.2</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Grainne</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>13.5</diameter>
+    <centerlatitude>-59.7</centerlatitude>
+    <centerlongitude>260.6</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Gwern</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>22.2</diameter>
+    <centerlatitude>9.14</centerlatitude>
+    <centerlongitude>15.46</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Gwydion</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>5</diameter>
+    <centerlatitude>-60.5</centerlatitude>
+    <centerlongitude>278.4</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Harmonia Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1154</diameter>
+    <centerlatitude>28</centerlatitude>
+    <centerlongitude>188.3</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hyperenor Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2996</diameter>
+    <centerlatitude>-12.1</centerlatitude>
+    <centerlongitude>35.6</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ino Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1515</diameter>
+    <centerlatitude>-1.7</centerlatitude>
+    <centerlongitude>185.4</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Katreus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>195</diameter>
+    <centerlatitude>-38.8</centerlatitude>
+    <centerlongitude>146.7</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Kennet Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>3200</diameter>
+    <centerlatitude>-41</centerlatitude>
+    <centerlongitude>48</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Libya Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>366</diameter>
+    <centerlatitude>-54</centerlatitude>
+    <centerlongitude>179</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Llyr</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1.1</diameter>
+    <centerlatitude>-1.8</centerlatitude>
+    <centerlongitude>138.2</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Luchtar</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>19.9</diameter>
+    <centerlatitude>-40.2</centerlatitude>
+    <centerlongitude>102.43</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Lug</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>11</diameter>
+    <centerlatitude>27.99</centerlatitude>
+    <centerlongitude>315.69</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mael Duin</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2</diameter>
+    <centerlatitude>-16.8</centerlatitude>
+    <centerlongitude>162.1</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Maeve</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>21.3</diameter>
+    <centerlatitude>58.8</centerlatitude>
+    <centerlongitude>281.1</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Manannan</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>30</diameter>
+    <centerlatitude>3.1</centerlatitude>
+    <centerlongitude>120.3</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Math</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>10.8</diameter>
+    <centerlatitude>-25.6</centerlatitude>
+    <centerlongitude>176.3</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mehen Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1500</diameter>
+    <centerlatitude>56</centerlatitude>
+    <centerlongitude>123.3</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Merrivale Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1600</diameter>
+    <centerlatitude>-41</centerlatitude>
+    <centerlongitude>60.5</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Midir</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>37.4</diameter>
+    <centerlatitude>3.65</centerlatitude>
+    <centerlongitude>21.25</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Minos Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2170</diameter>
+    <centerlatitude>47.2</centerlatitude>
+    <centerlongitude>164.8</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Morvran</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>15</diameter>
+    <centerlatitude>-4.9</centerlatitude>
+    <centerlongitude>207.4</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Moytura Regio</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>483</diameter>
+    <centerlatitude>-50</centerlatitude>
+    <centerlongitude>65.7</centerlongitude>
+    <featuretype code="RE">Regio, regiones</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Murias Chaos</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>116</diameter>
+    <centerlatitude>22.4</centerlatitude>
+    <centerlongitude>276.2</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Narberth Chaos</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>20</diameter>
+    <centerlatitude>-26</centerlatitude>
+    <centerlongitude>87</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Niamh</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>5</diameter>
+    <centerlatitude>21.1</centerlatitude>
+    <centerlongitude>143.1</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ogma</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>5</diameter>
+    <centerlatitude>87.45</centerlatitude>
+    <centerlongitude>72.14</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Oisin</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>6.2</diameter>
+    <centerlatitude>-52.3</centerlatitude>
+    <centerlongitude>146.6</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Onga Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>870</diameter>
+    <centerlatitude>-38.7</centerlatitude>
+    <centerlongitude>148.7</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Pelagon Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>616.7</diameter>
+    <centerlatitude>35.5</centerlatitude>
+    <centerlongitude>186.4</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Pelorus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1535</diameter>
+    <centerlatitude>-19.8</centerlatitude>
+    <centerlongitude>171.7</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Phineus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2004</diameter>
+    <centerlatitude>-29.8</centerlatitude>
+    <centerlongitude>40.1</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Phocis Flexus</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>242</diameter>
+    <centerlatitude>-44.5</centerlatitude>
+    <centerlongitude>161.6</centerlongitude>
+    <featuretype code="FE">Flexus, flexūs</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Phoenix Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1621</diameter>
+    <centerlatitude>16.6</centerlatitude>
+    <centerlongitude>171.2</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Powys Regio</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2000</diameter>
+    <centerlatitude>0</centerlatitude>
+    <centerlongitude>215</centerlongitude>
+    <featuretype code="RE">Regio, regiones</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Pryderi</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1.7</diameter>
+    <centerlatitude>-66.1</centerlatitude>
+    <centerlongitude>200.9</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Pwyll</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>45</diameter>
+    <centerlatitude>-25.2</centerlatitude>
+    <centerlongitude>88.6</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Rathmore Chaos</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>57</diameter>
+    <centerlatitude>25.4</centerlatitude>
+    <centerlongitude>285</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Rhadamanthys Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1747</diameter>
+    <centerlatitude>19.3</centerlatitude>
+    <centerlongitude>159.5</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Rhiannon</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>15.9</diameter>
+    <centerlatitude>-80.9</centerlatitude>
+    <centerlongitude>165.1</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sarpedon Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>900</diameter>
+    <centerlatitude>-49.5</centerlatitude>
+    <centerlongitude>267.1</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sharpitor Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1650</diameter>
+    <centerlatitude>65.4</centerlatitude>
+    <centerlongitude>188.3</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sidon Flexus</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1133</diameter>
+    <centerlatitude>-66.4</centerlatitude>
+    <centerlongitude>176.6</centerlongitude>
+    <featuretype code="FE">Flexus, flexūs</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sparti Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1600</diameter>
+    <centerlatitude>59.3</centerlatitude>
+    <centerlongitude>114.5</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Staldon Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1525</diameter>
+    <centerlatitude>-0.8</centerlatitude>
+    <centerlongitude>332.6</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Taliesin</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>50</diameter>
+    <centerlatitude>-22.8</centerlatitude>
+    <centerlongitude>222</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tara Regio</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>1780</diameter>
+    <centerlatitude>-10</centerlatitude>
+    <centerlongitude>285</centerlongitude>
+    <featuretype code="RE">Regio, regiones</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tectamus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2096</diameter>
+    <centerlatitude>26.9</centerlatitude>
+    <centerlongitude>160.8</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tegid</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>29.7</diameter>
+    <centerlatitude>0.8</centerlatitude>
+    <centerlongitude>195.6</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Telephassa Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>777</diameter>
+    <centerlatitude>-0.8</centerlatitude>
+    <centerlongitude>182.8</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Thasus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>669.3</diameter>
+    <centerlatitude>-66.1</centerlatitude>
+    <centerlongitude>176</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Thera Macula</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>95</diameter>
+    <centerlatitude>-46.7</centerlatitude>
+    <centerlongitude>178.8</centerlongitude>
+    <featuretype code="MA">Macula, maculae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Thrace Macula</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>180.2</diameter>
+    <centerlatitude>-45.9</centerlatitude>
+    <centerlongitude>187.9</centerlongitude>
+    <featuretype code="MA">Macula, maculae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Thynia Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>412.6</diameter>
+    <centerlatitude>-59.2</centerlatitude>
+    <centerlongitude>205.5</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tormsdale Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>875</diameter>
+    <centerlatitude>47.7</centerlatitude>
+    <centerlongitude>102</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tuag</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>15.2</diameter>
+    <centerlatitude>59.92</centerlatitude>
+    <centerlongitude>187.64</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tyre</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>149</diameter>
+    <centerlatitude>33.6</centerlatitude>
+    <centerlongitude>213.4</centerlongitude>
+    <featuretype code="LG">Large ringed feature</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tyre Macula</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>148</diameter>
+    <centerlatitude>31.7</centerlatitude>
+    <centerlongitude>213</centerlongitude>
+    <featuretype code="MA">Macula, maculae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Uaithne</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>6.5</diameter>
+    <centerlatitude>-48.5</centerlatitude>
+    <centerlongitude>269.3</centerlongitude>
+    <featuretype code="AA">Crater, craters</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Udaeus Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>2050</diameter>
+    <centerlatitude>48.6</centerlatitude>
+    <centerlongitude>120.6</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Yelland Linea</cleanName>
+    <target>EUROPA</target>
+    <system>JUPITER</system>
+    <diameter>186</diameter>
+    <centerlatitude>-16.7</centerlatitude>
+    <centerlongitude>164</centerlongitude>
+    <featuretype code="LI">Linea, lineae</featuretype>
+  </feature>
+</Defs>

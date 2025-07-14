@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!-- Europan Ice -->
+    <TerrainDef ParentName="NaturalTerrainBase">
+        <defName>EuropaIce</defName>
+        <label>europan ice</label>
+        <texturePath>Terrain/europa1</texturePath>
+        <pollutedTexturePath>Terrain/europa1Polluted</pollutedTexturePath>
+        <edgeType>FadeRough</edgeType>
+        <renderPrecedence>350</renderPrecedence>
+        <pathCost>14</pathCost>
+        <statBases>
+            <Beauty>-3</Beauty>
+            <BeautyOutdoors>0</BeautyOutdoors>
+        </statBases>
+        <scatterType>SoftGray</scatterType>
+        <affordances>
+            <li>Light</li>
+            <li>Medium</li>
+            <li>Heavy</li>
+            <li>Diggable</li>
+        </affordances>
+        <generatedFilth>Filth_Dirt</generatedFilth>
+        <fertility>0</fertility>
+        <takeFootprints>True</takeFootprints>
+        <tags>
+            <li>Ice</li>
+        </tags>
+    </TerrainDef>
+
+    <!-- Lunar Regolith -->
+    <TerrainDef ParentName="NaturalTerrainBase">
+        <defName>MoonDust</defName>
+        <label>lunar regolith</label>
+        <texturePath>Terrain/MoonDust</texturePath>
+        <pollutedTexturePath>Terrain/MoonDustPolluted</pollutedTexturePath>
+        <edgeType>FadeRough</edgeType>
+        <categoryType>Sand</categoryType>
+        <renderPrecedence>350</renderPrecedence>
+        <pathCost>4</pathCost>
+        <statBases>
+            <Beauty>-3</Beauty>
+            <BeautyOutdoors>0</BeautyOutdoors>
+            <Cleanliness>-1</Cleanliness>
+        </statBases>
+        <scatterType>SoftDry</scatterType>
+        <affordances>
+            <li>Light</li>
+            <li>Medium</li>
+            <li>Heavy</li>
+            <li>Diggable</li>
+        </affordances>
+        <generatedFilth>Filth_Sand</generatedFilth>
+        <fertility>0.10</fertility>
+        <takeFootprints>True</takeFootprints>
+        <tags>
+            <li>Sand</li>
+        </tags>
+    </TerrainDef>
+
+    <!-- Rocky Lunar Regolith -->
+    <TerrainDef ParentName="NaturalTerrainBase">
+        <defName>MoonRock</defName>
+        <label>rocky lunar regolith</label>
+        <texturePath>Terrain/MoonRock</texturePath>
+        <edgeType>FadeRough</edgeType>
+        <categoryType>Soil</categoryType>
+        <renderPrecedence>320</renderPrecedence>
+        <pathCost>2</pathCost>
+        <statBases>
+            <Beauty>-3</Beauty>
+            <BeautyOutdoors>0</BeautyOutdoors>
+            <Cleanliness>-1</Cleanliness>
+        </statBases>
+        <scatterType>Rocky</scatterType>
+        <affordances>
+            <li>Light</li>
+            <li>Medium</li>
+            <li>Heavy</li>
+            <li>GrowSoil</li>
+            <li>Diggable</li>
+        </affordances>
+        <generatedFilth>Filth_Sand</generatedFilth>
+        <fertility>0.7</fertility>
+        <takeFootprints>True</takeFootprints>
+        <tags>
+            <li>Soil</li>
+        </tags>
+    </TerrainDef>
+
+    
+    <!-- Martian Regolith -->
+    <TerrainDef ParentName="NaturalTerrainBase">
+        <defName>RegolithMars</defName>
+        <label>martian regolith</label>
+        <texturePath>Terrain/MarsSand</texturePath>
+        <pollutedTexturePath>Terrain/MarsSandPolluted</pollutedTexturePath>
+        <edgeType>FadeRough</edgeType>
+        <categoryType>Sand</categoryType>
+        <renderPrecedence>350</renderPrecedence>
+        <pathCost>4</pathCost>
+        <statBases>
+            <Beauty>-3</Beauty>
+            <BeautyOutdoors>0</BeautyOutdoors>
+            <Cleanliness>-1</Cleanliness>
+        </statBases>
+        <scatterType>SoftDry</scatterType>
+        <affordances>
+            <li>Light</li>
+            <li>Medium</li>
+            <li>Heavy</li>
+            <li>Diggable</li>
+        </affordances>
+        <generatedFilth>Filth_Sand</generatedFilth>
+        <fertility>0.06</fertility>
+        <takeFootprints>True</takeFootprints>
+        <tags>
+            <li>Sand</li>
+        </tags>
+    </TerrainDef>
+
+    <!-- Ancient Mud -->
+    <TerrainDef ParentName="NaturalTerrainBase">
+        <defName>Clay</defName>
+        <label>Clay</label>
+        <texturePath>Terrain/MarsMud</texturePath>
+        <pollutedTexturePath>Terrain/MarsMudPolluted</pollutedTexturePath>
+        <edgeType>FadeRough</edgeType>
+        <categoryType>Soil</categoryType>
+        <renderPrecedence>330</renderPrecedence>
+        <pathCost>4</pathCost>
+        <statBases>
+            <Beauty>-3</Beauty>
+            <BeautyOutdoors>0</BeautyOutdoors>
+            <Cleanliness>-2</Cleanliness>
+        </statBases>
+        <affordances>
+            <li>Light</li>
+            <li>Medium</li>
+            <li>Heavy</li>
+            <li>Diggable</li>
+        </affordances>
+        <generatedFilth>Filth_Dirt</generatedFilth>
+        <fertility>0</fertility>
+        <takeFootprints>True</takeFootprints>
+        <tags>
+            <li>Mud</li>
+        </tags>
+    </TerrainDef>
+
+    <TerrainDef ParentName="NaturalTerrainBase">
+        <defName>IcyRegolith</defName>
+        <label>Icy Regolith</label>
+        <texturePath>Terrain/MarsSand</texturePath>
+        <pollutedTexturePath>Terrain/MarsSandIcy</pollutedTexturePath>
+        <edgeType>FadeRough</edgeType>
+        <renderPrecedence>325</renderPrecedence>
+        <pathCost>4</pathCost>
+        <statBases>
+            <Beauty>-1</Beauty>
+            <Cleanliness>-1</Cleanliness>
+        </statBases>
+        <affordances>
+            <li>Light</li>
+            <li>Medium</li>
+            <li>Heavy</li>
+            <li>Light</li>
+            <li>Diggable</li>
+        </affordances>
+        <generatedFilth>Filth_Sand</generatedFilth>
+        <fertility>0.06</fertility>
+        <takeFootprints>True</takeFootprints>
+    </TerrainDef>
+
+    <!-- Rocky Regolith -->
+    <TerrainDef ParentName="NaturalTerrainBase">
+        <defName>RockyRegolith</defName>
+        <label>rocky regolith</label>
+        <texturePath>Terrain/MarsSandStony3</texturePath>
+        <edgeType>FadeRough</edgeType>
+        <categoryType>Soil</categoryType>
+        <renderPrecedence>320</renderPrecedence>
+        <pathCost>2</pathCost>
+        <statBases>
+            <Beauty>-3</Beauty>
+            <BeautyOutdoors>0</BeautyOutdoors>
+            <Cleanliness>-1</Cleanliness>
+        </statBases>
+        <scatterType>Rocky</scatterType>
+        <affordances>
+            <li>Light</li>
+            <li>Medium</li>
+            <li>Heavy</li>
+            <li>GrowSoil</li>
+            <li>Diggable</li>
+        </affordances>
+        <generatedFilth>Filth_Sand</generatedFilth>
+        <fertility>0.06</fertility>
+        <takeFootprints>True</takeFootprints>
+        <tags>
+            <li>Soil</li>
+        </tags>
+    </TerrainDef>
+
+    <!-- Coarse Regolith -->
+    <TerrainDef ParentName="NaturalTerrainBase">
+        <defName>CoarseRegolith</defName>
+        <label>coarse regolith</label>
+        <texturePath>Terrain/MarsSandStony2</texturePath>
+        <edgeType>FadeRough</edgeType>
+        <categoryType>Soil</categoryType>
+        <renderPrecedence>320</renderPrecedence>
+        <pathCost>2</pathCost>
+        <statBases>
+            <Beauty>-3</Beauty>
+            <BeautyOutdoors>0</BeautyOutdoors>
+            <Cleanliness>-1</Cleanliness>
+        </statBases>
+        <scatterType>Rocky</scatterType>
+        <affordances>
+            <li>Light</li>
+            <li>Medium</li>
+            <li>Heavy</li>
+            <li>GrowSoil</li>
+            <li>Diggable</li>
+        </affordances>
+        <generatedFilth>Filth_Sand</generatedFilth>
+        <fertility>0.06</fertility>
+        <takeFootprints>True</takeFootprints>
+        <tags>
+            <li>Soil</li>
+        </tags>
+    </TerrainDef>
+
+</Defs>

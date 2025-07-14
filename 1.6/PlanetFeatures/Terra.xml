@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <feature>
+    <cleanName>Aonia Terra</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>3873.48</diameter>
+    <centerlatitude>-60.2</centerlatitude>
+    <centerlongitude>262.95</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Arabia Terra</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>4851.74</diameter>
+    <centerlatitude>21.25</centerlatitude>
+    <centerlongitude>5.72</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Margaritifer Terra</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>2733.22</diameter>
+    <centerlatitude>-1.85</centerlatitude>
+    <centerlongitude>335.08</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Noachis Terra</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>5519.45</diameter>
+    <centerlatitude>-50.41</centerlatitude>
+    <centerlongitude>354.84</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Promethei Terra</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>3244.3</diameter>
+    <centerlatitude>-64.37</centerlatitude>
+    <centerlongitude>97</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tempe Terra</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1954.94</diameter>
+    <centerlatitude>38.69</centerlatitude>
+    <centerlongitude>289.39</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Terra Cimmeria</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>5855.87</diameter>
+    <centerlatitude>-32.68</centerlatitude>
+    <centerlongitude>147.75</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Terra Meridiani</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1622</diameter>
+    <centerlatitude>-7.12</centerlatitude>
+    <centerlongitude>4</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Terra Sabaea</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>4688.44</diameter>
+    <centerlatitude>2.72</centerlatitude>
+    <centerlongitude>51.3</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Terra Sirenum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>3635.18</diameter>
+    <centerlatitude>-39.49</centerlatitude>
+    <centerlongitude>205.85</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tyrrhena Terra</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>2470.14</diameter>
+    <centerlatitude>-11.9</centerlatitude>
+    <centerlongitude>88.84</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Xanthe Terra</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1867.65</diameter>
+    <centerlatitude>1.6</centerlatitude>
+    <centerlongitude>311.95</centerlongitude>
+    <featuretype code="TA">Terra, terrae</featuretype>
+  </feature>
+</Defs>

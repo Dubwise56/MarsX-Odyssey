@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <GameConditionDef>
+    <defName>HighAltitudePlume</defName>
+    <conditionClass>MarsX.MapCondition_Plume</conditionClass>
+    <label>plume</label>
+    <description>A plume is seen reaching high above the surface of the planet and blocks the sun.</description>
+    <endMessage>The plume is vanishing.</endMessage>
+    <canBePermanent>false</canBePermanent>
+  </GameConditionDef>
+
+</Defs>

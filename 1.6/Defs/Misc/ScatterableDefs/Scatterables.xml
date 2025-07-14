@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+    <ScatterableDef Abstract="True" Name="MarsStoneRoot">
+        <minSize>0.3</minSize>
+        <maxSize>0.9</maxSize>
+        <scatterType>Rocky</scatterType>
+    </ScatterableDef>
+
+    <ScatterableDef ParentName="MarsStoneRoot">
+        <defName>DebrisStoneA</defName>
+        <texturePath>Terrain/Scatter/DebrisStoneA</texturePath>
+    </ScatterableDef>
+
+    <ScatterableDef ParentName="MarsStoneRoot">
+        <defName>DebrisStoneB</defName>
+        <texturePath>Terrain/Scatter/DebrisStoneB</texturePath>
+    </ScatterableDef>
+
+    <ScatterableDef ParentName="MarsStoneRoot">
+        <defName>DebrisStoneC</defName>
+        <texturePath>Terrain/Scatter/DebrisStoneC</texturePath>
+    </ScatterableDef>
+
+    <ScatterableDef ParentName="MarsStoneRoot">
+        <defName>DebrisStoneD</defName>
+        <texturePath>Terrain/Scatter/DebrisStoneD</texturePath>
+    </ScatterableDef>
+
+    <ScatterableDef ParentName="MarsStoneRoot">
+        <defName>DebrisStoneE</defName>
+        <texturePath>Terrain/Scatter/DebrisStoneE</texturePath>
+    </ScatterableDef>
+
+</Defs>

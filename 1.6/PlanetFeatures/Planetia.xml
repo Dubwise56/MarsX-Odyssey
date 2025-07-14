@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <feature>
+    <cleanName>Acidalia Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>3505</diameter>
+    <centerlatitude>49.76</centerlatitude>
+    <centerlongitude>339.26</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Amazonis Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>2809.04</diameter>
+    <centerlatitude>25.75</centerlatitude>
+    <centerlongitude>197.09</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Arcadia Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>2245</diameter>
+    <centerlatitude>49.02</centerlatitude>
+    <centerlongitude>188.15</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Argyre Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>892.93</diameter>
+    <centerlatitude>-49.84</centerlatitude>
+    <centerlongitude>316.69</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Chryse Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1542.44</diameter>
+    <centerlatitude>28.43</centerlatitude>
+    <centerlongitude>319.69</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Elysium Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>3000.79</diameter>
+    <centerlatitude>2.98</centerlatitude>
+    <centerlongitude>154.74</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Eridania Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1062.13</diameter>
+    <centerlatitude>-38.15</centerlatitude>
+    <centerlongitude>122.21</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hellas Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>2299.16</diameter>
+    <centerlatitude>-42.43</centerlatitude>
+    <centerlongitude>70.5</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Isidis Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1224.58</diameter>
+    <centerlatitude>13.94</centerlatitude>
+    <centerlongitude>88.38</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Olympia Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1100</diameter>
+    <centerlatitude>81.4</centerlatitude>
+    <centerlongitude>180</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Syrtis Major Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1262</diameter>
+    <centerlatitude>9.39</centerlatitude>
+    <centerlongitude>69.5</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Utopia Planitia</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>3560.45</diameter>
+    <centerlatitude>46.74</centerlatitude>
+    <centerlongitude>117.52</centerlongitude>
+    <featuretype code="PL">Planitia, planitiae</featuretype>
+  </feature>
+</Defs>

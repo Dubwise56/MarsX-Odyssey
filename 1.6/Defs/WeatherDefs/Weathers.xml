@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <WeatherDef>
+        <defName>ClearVacuum</defName>
+        <label>clear</label>
+        <description>No atmosphere to worry about.</description>
+        <repeatable>true</repeatable>
+        <favorability>Good</favorability>
+        <ambientSounds></ambientSounds>
+        <!-- Colors are Clear -->
+        <skyColorsDay>
+            <sky>(1,1,1)</sky>
+            <shadow>(0.5,0.5,0.5)</shadow>
+            <overlay>(1,1,1)</overlay>
+            <saturation>1.25</saturation>
+        </skyColorsDay>
+        <skyColorsDusk>
+            <sky>(0.5,0.5,0.5)</sky>
+            <shadow>(0.92,0.92,0.92)</shadow>
+            <overlay>(1,1,1)</overlay>
+            <saturation>0.9</saturation>
+        </skyColorsDusk>
+        <skyColorsNightEdge>
+            <sky>(0.3,0.3,0.3)</sky>
+            <shadow>(0.92,0.92,0.92)</shadow>
+            <overlay>(1,1,1)</overlay>
+            <saturation>0.9</saturation>
+        </skyColorsNightEdge>
+        <skyColorsNightMid>
+            <sky>(0.2,0.2,0.2)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(1,1,1)</overlay>
+            <saturation>0.6</saturation>
+        </skyColorsNightMid>
+    </WeatherDef>
+
+    <WeatherDef>
+        <defName>ClearMars</defName>
+        <label>clear</label>
+        <description>A clear day. No penalties or modifiers.</description>
+        <repeatable>true</repeatable>
+        <favorability>Good</favorability>
+        <ambientSounds>
+            <li>AmbientWind_Clear</li>
+        </ambientSounds>
+        <!-- Colors are Clear -->
+        <skyColorsDay>
+            <sky>(1, 0.94, 0.91)</sky>
+            <shadow>(0.92,0.92,0.92)</shadow>
+            <overlay>(1,1,1)</overlay>
+            <saturation>1.1</saturation>
+        </skyColorsDay>
+        <skyColorsDusk>
+            <sky>(0.5,0.3,0.4)</sky>
+            <shadow>(0.98,0.98,0.98)</shadow>
+            <overlay>(0.8,0.8,0.8)</overlay>
+            <saturation>1.15</saturation>
+        </skyColorsDusk>
+        <skyColorsNightEdge>
+            <sky>(0.3,0.3,0.3)</sky>
+            <shadow>(0.98,0.98,0.98)</shadow>
+            <overlay>(0.6,0.6,0.6)</overlay>
+            <saturation>1</saturation>
+        </skyColorsNightEdge>
+        <skyColorsNightMid>
+            <sky>(0.283,0.283,0.283)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.1,0.1,0.1)</overlay>
+            <saturation>1</saturation>
+        </skyColorsNightMid>
+    </WeatherDef>
+
+    <WeatherDef>
+        <defName>WindyMars</defName>
+        <label>windy</label>
+        <description>A windy day. Solar panels may be blown clean.</description>
+        <repeatable>true</repeatable>
+        <favorability>Good</favorability>
+        <ambientSounds>
+            <li>AmbientWind_Desolate</li>
+        </ambientSounds>
+        <skyColorsDay>
+            <sky>(1, 0.94, 0.91)</sky>
+            <shadow>(0.92,0.92,0.92)</shadow>
+            <overlay>(1,1,1)</overlay>
+            <saturation>1.1</saturation>
+        </skyColorsDay>
+        <skyColorsDusk>
+            <sky>(0.5,0.3,0.4)</sky>
+            <shadow>(0.98,0.98,0.98)</shadow>
+            <overlay>(0.8,0.8,0.8)</overlay>
+            <saturation>1.15</saturation>
+        </skyColorsDusk>
+        <skyColorsNightEdge>
+            <sky>(0.3,0.3,0.3)</sky>
+            <shadow>(0.98,0.98,0.98)</shadow>
+            <overlay>(0.6,0.6,0.6)</overlay>
+            <saturation>1</saturation>
+        </skyColorsNightEdge>
+        <skyColorsNightMid>
+            <sky>(0.283,0.283,0.283)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.1,0.1,0.1)</overlay>
+            <saturation>1</saturation>
+        </skyColorsNightMid>
+    </WeatherDef>
+
+    <WeatherDef>
+        <defName>DustStorm</defName>
+        <label>dust storm</label>
+        <description>Local dust storms pop up frequently.</description>
+        <windSpeedFactor>0.5</windSpeedFactor>
+        <accuracyMultiplier>0.5</accuracyMultiplier>
+        <favorability>Bad</favorability>
+        <ambientSounds>
+            <li>AmbientWind_Fog</li>
+        </ambientSounds>
+        <overlayClasses>
+            <li>WeatherOverlay_Fog</li>
+        </overlayClasses>
+        <commonalityRainfallFactor>
+            <points>
+                <li>(0, 0)</li>
+                <li>(1300, 1)</li>
+            </points>
+        </commonalityRainfallFactor>
+        <!-- Colors are Overcast -->
+        <skyColorsDay>
+            <sky>(0.5,0.5,0.5)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.5,0.3,0.4)</overlay>
+            <saturation>1</saturation>
+        </skyColorsDay>
+        <skyColorsDusk>
+            <sky>(0.4,0.4,0.4)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.3,0.3,0.3)</overlay>
+            <saturation>1</saturation>
+        </skyColorsDusk>
+        <skyColorsNightEdge>
+            <sky>(0.3,0.3,0.3)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.2,0.2,0.2)</overlay>
+            <saturation>1</saturation>
+        </skyColorsNightEdge>
+        <skyColorsNightMid>
+            <sky>(0.283,0.283,0.283)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.1,0.1,0.1)</overlay>
+            <saturation>1</saturation>
+        </skyColorsNightMid>
+    </WeatherDef>
+
+
+    <WeatherDef>
+        <defName>MajorDustStorm</defName>
+        <label>massive dust storm</label>
+        <description>A dust storm can develop in a matter of hours and envelope the entire planet within a few days. After developing, it can take weeks for a dust storm on Mars to completely expend itself.</description>
+        <windSpeedFactor>3</windSpeedFactor>
+        <favorability>VeryBad</favorability>
+        <ambientSounds>
+            <li>AmbientWind_Storm</li>
+        </ambientSounds>
+        <overlayClasses>
+            <li>WeatherOverlay_Fog</li>
+            <li>WeatherOverlay_SnowHard</li>
+        </overlayClasses>
+        <durationRange>
+            <min>60000</min>
+            <max>180000</max>
+        </durationRange>
+        <eventMakers>
+            <li>
+                <averageInterval>1200</averageInterval>
+                <eventClass>WeatherEvent_LightningFlash</eventClass>
+            </li>
+            <li>
+                <averageInterval>3200</averageInterval>
+                <eventClass>WeatherEvent_LightningStrike</eventClass>
+            </li>
+        </eventMakers>
+        <!-- Colors are Overcast -->
+        <skyColorsDay>
+            <sky>(0.5,0.5,0.5)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.5,0.3,0.4)</overlay>
+            <saturation>1</saturation>
+        </skyColorsDay>
+        <skyColorsDusk>
+            <sky>(0.4,0.4,0.4)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.3,0.3,0.3)</overlay>
+            <saturation>1</saturation>
+        </skyColorsDusk>
+        <skyColorsNightEdge>
+            <sky>(0.3,0.3,0.3)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.5,0.5,0.5)</overlay>
+            <saturation>1</saturation>
+        </skyColorsNightEdge>
+        <skyColorsNightMid>
+            <sky>(0.283,0.283,0.283)</sky>
+            <shadow>(1,1,1)</shadow>
+            <overlay>(0.1,0.1,0.1)</overlay>
+            <saturation>1</saturation>
+        </skyColorsNightMid>
+    </WeatherDef>
+</Defs>
+
+
+
+
+
+
+
+

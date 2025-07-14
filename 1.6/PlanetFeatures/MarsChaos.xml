@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <feature>
+    <cleanName>Aeolis Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>201</diameter>
+    <centerlatitude>-7.13</centerlatitude>
+    <centerlongitude>150.6</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Aram Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>283.81</diameter>
+    <centerlatitude>2.52</centerlatitude>
+    <centerlongitude>337.61</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Aromatum Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>72.8</diameter>
+    <centerlatitude>-1.03</centerlatitude>
+    <centerlongitude>317.03</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Arsinoes Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>200.08</diameter>
+    <centerlatitude>-7.66</centerlatitude>
+    <centerlongitude>332.08</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Atlantis Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>181.37</diameter>
+    <centerlatitude>-34.28</centerlatitude>
+    <centerlongitude>182.69</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Aureum Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>351.03</diameter>
+    <centerlatitude>-3.89</centerlatitude>
+    <centerlongitude>333.04</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Aurorae Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>713.92</diameter>
+    <centerlatitude>-8.47</centerlatitude>
+    <centerlongitude>325.19</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Baetis Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>66.66</diameter>
+    <centerlatitude>-0.17</centerlatitude>
+    <centerlongitude>299.6</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Candor Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>0</diameter>
+    <centerlatitude>-6.94</centerlatitude>
+    <centerlongitude>287.42</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Caralis Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>103.35</diameter>
+    <centerlatitude>-37.2</centerlatitude>
+    <centerlongitude>178.6</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Chryse Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>658.89</diameter>
+    <centerlatitude>9.86</centerlatitude>
+    <centerlongitude>322.81</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Echus Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>480.51</diameter>
+    <centerlatitude>10.79</centerlatitude>
+    <centerlongitude>285.28</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Eos Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>497.85</diameter>
+    <centerlatitude>-16.82</centerlatitude>
+    <centerlongitude>313.48</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Erythraeum Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>147.63</diameter>
+    <centerlatitude>-21.84</centerlatitude>
+    <centerlongitude>347.62</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Galaxias Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>234.48</diameter>
+    <centerlatitude>33.83</centerlatitude>
+    <centerlongitude>146.52</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ganges Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>113.73</diameter>
+    <centerlatitude>-9.76</centerlatitude>
+    <centerlongitude>313.96</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Gorgonum Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>150.71</diameter>
+    <centerlatitude>-37.26</centerlatitude>
+    <centerlongitude>189.1</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hellas Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>590.62</diameter>
+    <centerlatitude>-47.12</centerlatitude>
+    <centerlongitude>64.41</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hydaspis Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>336.04</diameter>
+    <centerlatitude>3.09</centerlatitude>
+    <centerlongitude>333.07</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hydrae Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>66</diameter>
+    <centerlatitude>-5.9</centerlatitude>
+    <centerlongitude>300.03</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hydraotes Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>419.04</diameter>
+    <centerlatitude>1.12</centerlatitude>
+    <centerlongitude>324.71</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Iamuna Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>21.72</diameter>
+    <centerlatitude>-0.28</centerlatitude>
+    <centerlongitude>319.39</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Iani Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>450.51</diameter>
+    <centerlatitude>-2.19</centerlatitude>
+    <centerlongitude>342.96</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ister Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>109.1</diameter>
+    <centerlatitude>12.95</centerlatitude>
+    <centerlongitude>303.44</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Margaritifer Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>383.67</diameter>
+    <centerlatitude>-9.3</centerlatitude>
+    <centerlongitude>338.3</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Nia Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>48</diameter>
+    <centerlatitude>-6.74</centerlatitude>
+    <centerlongitude>292.62</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Nilus Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>283</diameter>
+    <centerlatitude>25.39</centerlatitude>
+    <centerlongitude>283.05</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Oxia Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>24.12</diameter>
+    <centerlatitude>0.22</centerlatitude>
+    <centerlongitude>320.13</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Pyrrhae Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>162.35</diameter>
+    <centerlatitude>-10.46</centerlatitude>
+    <centerlongitude>331.6</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Xanthe Chaos</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>34.37</diameter>
+    <centerlatitude>11.87</centerlatitude>
+    <centerlongitude>317.78</centerlongitude>
+    <featuretype code="CH">Chaos, chaoses</featuretype>
+  </feature>
+</Defs>

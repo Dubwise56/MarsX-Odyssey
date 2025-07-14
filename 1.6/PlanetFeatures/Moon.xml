@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <feature>
+    <cleanName>Mare Anguis</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>145.99</diameter>
+    <centerlatitude>22.43</centerlatitude>
+    <centerlongitude>67.58</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Australe</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>996.84</diameter>
+    <centerlatitude>-47.77</centerlatitude>
+    <centerlongitude>91.99</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Cognitum</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>350.01</diameter>
+    <centerlatitude>-10.53</centerlatitude>
+    <centerlongitude>337.69</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Crisium</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>555.92</diameter>
+    <centerlatitude>16.18</centerlatitude>
+    <centerlongitude>59.1</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Fecunditatis</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>840.35</diameter>
+    <centerlatitude>-7.83</centerlatitude>
+    <centerlongitude>53.67</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Frigoris</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>1446.41</diameter>
+    <centerlatitude>57.59</centerlatitude>
+    <centerlongitude>359.99</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Humboldtianum</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>230.78</diameter>
+    <centerlatitude>56.92</centerlatitude>
+    <centerlongitude>81.54</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Humorum</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>419.67</diameter>
+    <centerlatitude>-24.48</centerlatitude>
+    <centerlongitude>321.43</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Imbrium</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>1145.53</diameter>
+    <centerlatitude>34.72</centerlatitude>
+    <centerlongitude>345.09</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Ingenii</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>282.2</diameter>
+    <centerlatitude>-33.25</centerlatitude>
+    <centerlongitude>164.83</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Insularum</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>511.93</diameter>
+    <centerlatitude>7.79</centerlatitude>
+    <centerlongitude>329.36</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Marginis</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>357.63</diameter>
+    <centerlatitude>12.7</centerlatitude>
+    <centerlongitude>86.52</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Moscoviense</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>275.57</diameter>
+    <centerlatitude>27.28</centerlatitude>
+    <centerlongitude>148.12</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Nectaris</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>339.39</diameter>
+    <centerlatitude>-15.19</centerlatitude>
+    <centerlongitude>34.6</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Nubium</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>714.5</diameter>
+    <centerlatitude>-20.59</centerlatitude>
+    <centerlongitude>342.71</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Orientale</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>294.16</diameter>
+    <centerlatitude>-19.87</centerlatitude>
+    <centerlongitude>265.33</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Serenitatis</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>674.28</diameter>
+    <centerlatitude>27.29</centerlatitude>
+    <centerlongitude>18.36</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Smythii</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>373.97</diameter>
+    <centerlatitude>-1.71</centerlatitude>
+    <centerlongitude>87.05</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Spumans</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>143.13</diameter>
+    <centerlatitude>1.3</centerlatitude>
+    <centerlongitude>65.3</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Tranquillitatis</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>875.75</diameter>
+    <centerlatitude>8.35</centerlatitude>
+    <centerlongitude>30.83</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Undarum</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>244.84</diameter>
+    <centerlatitude>7.49</centerlatitude>
+    <centerlongitude>68.66</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mare Vaporum</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>242.46</diameter>
+    <centerlatitude>13.2</centerlatitude>
+    <centerlongitude>4.09</centerlongitude>
+    <featuretype code="ME">Mare, maria</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Agnes</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>0</diameter>
+    <centerlatitude>18.66</centerlatitude>
+    <centerlongitude>5.34</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Ampere</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>29.96</diameter>
+    <centerlatitude>19.32</centerlatitude>
+    <centerlongitude>356.29</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Andre</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>10.52</diameter>
+    <centerlatitude>5.18</centerlatitude>
+    <centerlongitude>120.56</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Ardeshir</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>7.1</diameter>
+    <centerlatitude>5.03</centerlatitude>
+    <centerlongitude>121.04</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Argaeus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>61.48</diameter>
+    <centerlatitude>19.33</centerlatitude>
+    <centerlongitude>29.01</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Bradley</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>76.49</diameter>
+    <centerlatitude>21.73</centerlatitude>
+    <centerlongitude>0.38</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Delisle</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>32.42</diameter>
+    <centerlatitude>29.42</centerlatitude>
+    <centerlongitude>324.21</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Dieter</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>20.41</diameter>
+    <centerlatitude>5</centerlatitude>
+    <centerlongitude>120.3</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Dilip</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>1.37</diameter>
+    <centerlatitude>5.58</centerlatitude>
+    <centerlongitude>120.87</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Esam</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>7.92</diameter>
+    <centerlatitude>14.61</centerlatitude>
+    <centerlongitude>35.71</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Euler</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>0</diameter>
+    <centerlatitude>23.3</centerlatitude>
+    <centerlongitude>330.8</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Ganau</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>13.49</diameter>
+    <centerlatitude>4.79</centerlatitude>
+    <centerlongitude>120.59</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Gruithuisen Delta</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>27.24</diameter>
+    <centerlatitude>36.07</centerlatitude>
+    <centerlongitude>320.41</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Gruithuisen Gamma</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>19.65</diameter>
+    <centerlatitude>36.56</centerlatitude>
+    <centerlongitude>319.28</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Hadley</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>26.4</diameter>
+    <centerlatitude>26.69</centerlatitude>
+    <centerlongitude>4.12</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Hadley Delta</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>17.24</diameter>
+    <centerlatitude>25.72</centerlatitude>
+    <centerlongitude>3.71</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Hansteen</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>30.65</diameter>
+    <centerlatitude>-12.19</centerlatitude>
+    <centerlongitude>309.79</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Herodotus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>6.77</diameter>
+    <centerlatitude>27.5</centerlatitude>
+    <centerlongitude>307.06</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Huygens</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>41.97</diameter>
+    <centerlatitude>19.92</centerlatitude>
+    <centerlongitude>357.14</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons La Hire</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>21.71</diameter>
+    <centerlatitude>27.66</centerlatitude>
+    <centerlongitude>334.49</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Maraldi</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>15.9</diameter>
+    <centerlatitude>20.34</centerlatitude>
+    <centerlongitude>35.5</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Moro</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>13.68</diameter>
+    <centerlatitude>-11.84</centerlatitude>
+    <centerlongitude>340.16</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Penck</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>37.59</diameter>
+    <centerlatitude>-10</centerlatitude>
+    <centerlongitude>21.74</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Pico</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>24.42</diameter>
+    <centerlatitude>45.82</centerlatitude>
+    <centerlongitude>351.13</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Piton</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>22.5</diameter>
+    <centerlatitude>40.72</centerlatitude>
+    <centerlongitude>359.08</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Rumker</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>73.25</diameter>
+    <centerlatitude>40.76</centerlatitude>
+    <centerlongitude>301.62</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Tai</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>24</diameter>
+    <centerlatitude>-44.56</centerlatitude>
+    <centerlongitude>175.83</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Usov</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>13.23</diameter>
+    <centerlatitude>11.91</centerlatitude>
+    <centerlongitude>63.26</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Vinogradov</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>28.73</diameter>
+    <centerlatitude>22.35</centerlatitude>
+    <centerlongitude>327.48</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Vitruvius</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>44.28</diameter>
+    <centerlatitude>19.33</centerlatitude>
+    <centerlongitude>30.74</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mons Wolff</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>32.87</diameter>
+    <centerlatitude>16.88</centerlatitude>
+    <centerlongitude>353.2</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mont Blanc</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>21.57</diameter>
+    <centerlatitude>45.41</centerlatitude>
+    <centerlongitude>0.44</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Agricola</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>159.76</diameter>
+    <centerlatitude>29.06</centerlatitude>
+    <centerlongitude>305.93</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Alpes</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>334.48</diameter>
+    <centerlatitude>48.36</centerlatitude>
+    <centerlongitude>359.42</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Apenninus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>599.67</diameter>
+    <centerlatitude>19.87</centerlatitude>
+    <centerlongitude>0.03</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Archimedes</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>146.54</diameter>
+    <centerlatitude>25.39</centerlatitude>
+    <centerlongitude>354.75</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Carpatus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>333.59</diameter>
+    <centerlatitude>14.57</centerlatitude>
+    <centerlongitude>336.38</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Caucasus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>443.51</diameter>
+    <centerlatitude>37.52</centerlatitude>
+    <centerlongitude>9.93</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Cordillera</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>963.5</diameter>
+    <centerlatitude>-19.44</centerlatitude>
+    <centerlongitude>265.07</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Haemus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>384.66</diameter>
+    <centerlatitude>17.11</centerlatitude>
+    <centerlongitude>12.03</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Harbinger</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>92.7</diameter>
+    <centerlatitude>26.89</centerlatitude>
+    <centerlongitude>318.71</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Jura</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>420.8</diameter>
+    <centerlatitude>47.49</centerlatitude>
+    <centerlongitude>323.89</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Pyrenaeus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>251.33</diameter>
+    <centerlatitude>-14.05</centerlatitude>
+    <centerlongitude>41.51</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Recti</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>83.24</diameter>
+    <centerlatitude>48.3</centerlatitude>
+    <centerlongitude>340.28</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Riphaeus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>190.12</diameter>
+    <centerlatitude>-7.48</centerlatitude>
+    <centerlongitude>332.4</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Rook</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>682.28</diameter>
+    <centerlatitude>-19.49</centerlatitude>
+    <centerlongitude>265.05</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Secchi</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>52.47</diameter>
+    <centerlatitude>2.72</centerlatitude>
+    <centerlongitude>43.17</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Spitzbergen</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>59.19</diameter>
+    <centerlatitude>34.47</centerlatitude>
+    <centerlongitude>354.79</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Taurus</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>166.16</diameter>
+    <centerlatitude>27.32</centerlatitude>
+    <centerlongitude>40.34</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Montes Teneriffe</cleanName>
+    <target>MOON</target>
+    <system>EARTH</system>
+    <diameter>111.98</diameter>
+    <centerlatitude>47.89</centerlatitude>
+    <centerlongitude>346.81</centerlongitude>
+    <featuretype code="MO">Mons, montes</featuretype>
+  </feature>
+</Defs>

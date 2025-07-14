@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <feature>
+    <cleanName>Abus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>60.99</diameter>
+    <centerlatitude>-5.49</centerlatitude>
+    <centerlongitude>212.8</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Allegheny Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>171.08</diameter>
+    <centerlatitude>-9.01</centerlatitude>
+    <centerlongitude>306.1</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Al Qahira Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>600</diameter>
+    <centerlatitude>-18.23</centerlatitude>
+    <centerlongitude>162.41</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Anio Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>54</diameter>
+    <centerlatitude>37.75</centerlatitude>
+    <centerlongitude>55.89</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Apsus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>121.56</diameter>
+    <centerlatitude>34.91</centerlatitude>
+    <centerlongitude>134.99</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Arda Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>173.67</diameter>
+    <centerlatitude>-20.4</centerlatitude>
+    <centerlongitude>327.69</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ares Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1757.67</diameter>
+    <centerlatitude>10.29</centerlatitude>
+    <centerlongitude>334.39</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Arnus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>311.61</diameter>
+    <centerlatitude>13.97</centerlatitude>
+    <centerlongitude>70.61</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Asopus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>40.82</diameter>
+    <centerlatitude>-4.29</centerlatitude>
+    <centerlongitude>210.39</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Athabasca Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>270</diameter>
+    <centerlatitude>8.54</centerlatitude>
+    <centerlongitude>155.01</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Auqakuh Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>347</diameter>
+    <centerlatitude>30.25</centerlatitude>
+    <centerlongitude>60.41</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Axius Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>435.95</diameter>
+    <centerlatitude>-54.53</centerlatitude>
+    <centerlongitude>70.72</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Bahram Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>269.68</diameter>
+    <centerlatitude>20.42</centerlatitude>
+    <centerlongitude>302.86</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Bashkaus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>246.93</diameter>
+    <centerlatitude>-25.68</centerlatitude>
+    <centerlongitude>356.74</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Brazos Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>387.51</diameter>
+    <centerlatitude>-6.08</centerlatitude>
+    <centerlongitude>18.7</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Buvinda Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>134.17</diameter>
+    <centerlatitude>33.17</centerlatitude>
+    <centerlongitude>151.96</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Chico Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>446.35</diameter>
+    <centerlatitude>-66.77</centerlatitude>
+    <centerlongitude>207.77</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Clanis Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>58</diameter>
+    <centerlatitude>33.24</centerlatitude>
+    <centerlongitude>58.47</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Clasia Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>147</diameter>
+    <centerlatitude>33.77</centerlatitude>
+    <centerlongitude>57.04</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Clota Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>114.36</diameter>
+    <centerlatitude>-25.59</centerlatitude>
+    <centerlongitude>339.5</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Columbia Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>84.82</diameter>
+    <centerlatitude>-9.44</centerlatitude>
+    <centerlongitude>317.1</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Coogoon Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>300</diameter>
+    <centerlatitude>17.19</centerlatitude>
+    <centerlongitude>338.26</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Cusus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>250.24</diameter>
+    <centerlatitude>14.05</centerlatitude>
+    <centerlongitude>50.37</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Daga Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>49.86</diameter>
+    <centerlatitude>-12.07</centerlatitude>
+    <centerlongitude>317.58</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Dao Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>794</diameter>
+    <centerlatitude>-37.61</centerlatitude>
+    <centerlongitude>88.89</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Deva Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>0</diameter>
+    <centerlatitude>-7.81</centerlatitude>
+    <centerlongitude>203.1</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Deva Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>53.65</diameter>
+    <centerlatitude>-7.67</centerlatitude>
+    <centerlongitude>203.13</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Dittaino Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>157.42</diameter>
+    <centerlatitude>-1.43</centerlatitude>
+    <centerlongitude>293.14</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Doanus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>139.91</diameter>
+    <centerlatitude>-63.02</centerlatitude>
+    <centerlongitude>334.41</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Drava Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>159.03</diameter>
+    <centerlatitude>-48.86</centerlatitude>
+    <centerlongitude>165.99</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Drilon Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>118.53</diameter>
+    <centerlatitude>7.17</centerlatitude>
+    <centerlongitude>307.66</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Drinus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>0</diameter>
+    <centerlatitude>-22.96</centerlatitude>
+    <centerlongitude>342.5</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Dubis Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>45.42</diameter>
+    <centerlatitude>-5.16</centerlatitude>
+    <centerlongitude>211.87</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Dulce Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>32.46</diameter>
+    <centerlatitude>-4.82</centerlatitude>
+    <centerlongitude>136.54</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Durius Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>240</diameter>
+    <centerlatitude>-17.3</centerlatitude>
+    <centerlongitude>171.98</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Dzigai Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>327.31</diameter>
+    <centerlatitude>-58.1</centerlatitude>
+    <centerlongitude>323.41</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Elaver Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>178.92</diameter>
+    <centerlatitude>-9.38</centerlatitude>
+    <centerlongitude>310.48</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Enipeus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>527.07</diameter>
+    <centerlatitude>36.8</centerlatitude>
+    <centerlongitude>267.2</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Evros Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>358.01</diameter>
+    <centerlatitude>-12.65</centerlatitude>
+    <centerlongitude>13.83</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Farah Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>76.37</diameter>
+    <centerlatitude>-6.03</centerlatitude>
+    <centerlongitude>136.8</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Frento Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>251.09</diameter>
+    <centerlatitude>-50.03</centerlatitude>
+    <centerlongitude>345.16</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Gediz Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>8.3</diameter>
+    <centerlatitude>-4.85</centerlatitude>
+    <centerlongitude>137.44</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Granicus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>777.78</diameter>
+    <centerlatitude>30.58</centerlatitude>
+    <centerlongitude>129.97</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Grjota Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>343.77</diameter>
+    <centerlatitude>15.38</centerlatitude>
+    <centerlongitude>166.38</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Harmakhis Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>526.66</diameter>
+    <centerlatitude>-40.98</centerlatitude>
+    <centerlongitude>90.06</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Havel Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>240.19</diameter>
+    <centerlatitude>0.77</centerlatitude>
+    <centerlongitude>302.54</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hebrus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>325</diameter>
+    <centerlatitude>19.88</centerlatitude>
+    <centerlongitude>126.74</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Her Desher Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>117.29</diameter>
+    <centerlatitude>-25.08</centerlatitude>
+    <centerlongitude>312.07</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hermus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>53.32</diameter>
+    <centerlatitude>-5.32</centerlatitude>
+    <centerlongitude>212.19</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Himera Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>175</diameter>
+    <centerlatitude>-21.54</centerlatitude>
+    <centerlongitude>337.34</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hrad Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>974.4</diameter>
+    <centerlatitude>38.17</centerlatitude>
+    <centerlongitude>135.91</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Huallaga Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>92.5</diameter>
+    <centerlatitude>-26.67</centerlatitude>
+    <centerlongitude>79.07</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Huo Hsing Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>332.3</diameter>
+    <centerlatitude>30.19</centerlatitude>
+    <centerlongitude>66.61</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hypanis Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>220</diameter>
+    <centerlatitude>9.46</centerlatitude>
+    <centerlongitude>313.58</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hypsas Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>36.47</diameter>
+    <centerlatitude>33.63</centerlatitude>
+    <centerlongitude>57.99</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Iberus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>87.26</diameter>
+    <centerlatitude>21.25</centerlatitude>
+    <centerlongitude>152.07</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Indus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>342</diameter>
+    <centerlatitude>18.95</centerlatitude>
+    <centerlongitude>38.88</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Isara Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>5.36</diameter>
+    <centerlatitude>-5.31</centerlatitude>
+    <centerlongitude>213.58</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ituxi Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>123.07</diameter>
+    <centerlatitude>25.45</centerlatitude>
+    <centerlongitude>153.32</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Karun Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>64</diameter>
+    <centerlatitude>-35.94</centerlatitude>
+    <centerlongitude>174.1</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Kasei Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1580</diameter>
+    <centerlatitude>25.14</centerlatitude>
+    <centerlongitude>297.12</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Labou Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>257.79</diameter>
+    <centerlatitude>-8.63</centerlatitude>
+    <centerlongitude>205.58</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ladon Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>244.59</diameter>
+    <centerlatitude>-22.43</centerlatitude>
+    <centerlongitude>331.39</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Lethe Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>236.65</diameter>
+    <centerlatitude>3.16</centerlatitude>
+    <centerlongitude>154.97</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Licus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>240</diameter>
+    <centerlatitude>-3.05</centerlatitude>
+    <centerlongitude>126.35</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Liris Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>596.24</diameter>
+    <centerlatitude>-10.5</centerlatitude>
+    <centerlongitude>58.25</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Lobo Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>80</diameter>
+    <centerlatitude>26.82</centerlatitude>
+    <centerlongitude>298.83</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Locras Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>351.32</diameter>
+    <centerlatitude>8.84</centerlatitude>
+    <centerlongitude>48.26</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Loire Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>790</diameter>
+    <centerlatitude>-17.69</centerlatitude>
+    <centerlongitude>342.97</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Louros Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>516.14</diameter>
+    <centerlatitude>-8.41</centerlatitude>
+    <centerlongitude>278.23</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ma adim Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>913.11</diameter>
+    <centerlatitude>-21.98</centerlatitude>
+    <centerlongitude>177.5</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mad Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>537.37</diameter>
+    <centerlatitude>-56.27</centerlatitude>
+    <centerlongitude>76.47</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Maja Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1515</diameter>
+    <centerlatitude>10.23</centerlatitude>
+    <centerlongitude>301.62</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mamers Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1020</diameter>
+    <centerlatitude>40.65</centerlatitude>
+    <centerlongitude>17.94</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mangala Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>900</diameter>
+    <centerlatitude>-11.32</centerlatitude>
+    <centerlongitude>208.61</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Marikh Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1147.22</diameter>
+    <centerlatitude>-19.16</centerlatitude>
+    <centerlongitude>4.32</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Marte Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>231.43</diameter>
+    <centerlatitude>14.08</centerlatitude>
+    <centerlongitude>182.9</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Matrona Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>61.28</diameter>
+    <centerlatitude>-7.66</centerlatitude>
+    <centerlongitude>176.19</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Maumee Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>390</diameter>
+    <centerlatitude>19.51</centerlatitude>
+    <centerlongitude>307.15</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mawrth Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>634.63</diameter>
+    <centerlatitude>22.43</centerlatitude>
+    <centerlongitude>343.03</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Minio Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>90</diameter>
+    <centerlatitude>-4.38</centerlatitude>
+    <centerlongitude>208.33</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Moa Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>265</diameter>
+    <centerlatitude>35.62</centerlatitude>
+    <centerlongitude>305.3</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Morava Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>364.1</diameter>
+    <centerlatitude>-13.57</centerlatitude>
+    <centerlongitude>335.8</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Mosa Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>191.6</diameter>
+    <centerlatitude>-15.09</centerlatitude>
+    <centerlongitude>22.2</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Munda Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>9.13</diameter>
+    <centerlatitude>-5.37</centerlatitude>
+    <centerlongitude>213.83</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Naktong Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>669.63</diameter>
+    <centerlatitude>4.89</centerlatitude>
+    <centerlongitude>33.39</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Nanedi Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>550</diameter>
+    <centerlatitude>5.05</centerlatitude>
+    <centerlongitude>311.38</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Napo Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>87.5</diameter>
+    <centerlatitude>-25.97</centerlatitude>
+    <centerlongitude>78.03</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Naro Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>442.72</diameter>
+    <centerlatitude>-4</centerlatitude>
+    <centerlongitude>60.71</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Navua Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>500</diameter>
+    <centerlatitude>-33.94</centerlatitude>
+    <centerlongitude>82.68</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Nestus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>38.25</diameter>
+    <centerlatitude>-7.03</centerlatitude>
+    <centerlongitude>201.52</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Nia Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>140</diameter>
+    <centerlatitude>-53.53</centerlatitude>
+    <centerlongitude>325.19</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Nicer Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>22.6</diameter>
+    <centerlatitude>-6.96</centerlatitude>
+    <centerlongitude>201.81</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Niger Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>360</diameter>
+    <centerlatitude>-34.96</centerlatitude>
+    <centerlongitude>92.57</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Nirgal Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>610</diameter>
+    <centerlatitude>-28.16</centerlatitude>
+    <centerlongitude>318.32</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ochus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>127</diameter>
+    <centerlatitude>7.07</centerlatitude>
+    <centerlongitude>314.96</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Okavango Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>285.12</diameter>
+    <centerlatitude>38.1</centerlatitude>
+    <centerlongitude>8.97</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Oltis Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>169.3</diameter>
+    <centerlatitude>-23.5</centerlatitude>
+    <centerlongitude>338.35</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Osuga Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>164</diameter>
+    <centerlatitude>-15.31</centerlatitude>
+    <centerlongitude>321.41</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Padus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>57.42</diameter>
+    <centerlatitude>-4.52</centerlatitude>
+    <centerlongitude>210.02</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Pallacopas Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>134.77</diameter>
+    <centerlatitude>-54.73</centerlatitude>
+    <centerlongitude>339.52</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Parana Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>329.13</diameter>
+    <centerlatitude>-23.19</centerlatitude>
+    <centerlongitude>350.2</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Patapsco Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>172.87</diameter>
+    <centerlatitude>23.7</centerlatitude>
+    <centerlongitude>152.51</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Peace Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>35.24</diameter>
+    <centerlatitude>-4.21</centerlatitude>
+    <centerlongitude>137.23</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Protva Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>259.71</diameter>
+    <centerlatitude>-29.11</centerlatitude>
+    <centerlongitude>299.42</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Rahway Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>346.19</diameter>
+    <centerlatitude>8.46</centerlatitude>
+    <centerlongitude>173.58</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ravius Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>388.18</diameter>
+    <centerlatitude>46.12</centerlatitude>
+    <centerlongitude>249.83</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ravi Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>148.78</diameter>
+    <centerlatitude>-0.42</centerlatitude>
+    <centerlongitude>319.52</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Reull Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1051.94</diameter>
+    <centerlatitude>-42.14</centerlatitude>
+    <centerlongitude>104.95</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Rhabon Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>245</diameter>
+    <centerlatitude>21.21</centerlatitude>
+    <centerlongitude>268.73</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Rubicon Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>308.21</diameter>
+    <centerlatitude>44.41</centerlatitude>
+    <centerlongitude>242.48</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Runa Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>36</diameter>
+    <centerlatitude>-28.34</centerlatitude>
+    <centerlongitude>323.29</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sabis Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>212.91</diameter>
+    <centerlatitude>-5.01</centerlatitude>
+    <centerlongitude>207.49</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sabrina Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>280</diameter>
+    <centerlatitude>10.99</centerlatitude>
+    <centerlongitude>310.96</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Samara Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>661.84</diameter>
+    <centerlatitude>-24.17</centerlatitude>
+    <centerlongitude>341.27</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Scamander Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>269</diameter>
+    <centerlatitude>15.89</centerlatitude>
+    <centerlongitude>28.53</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Senus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>22.18</diameter>
+    <centerlatitude>-5.23</centerlatitude>
+    <centerlongitude>213.04</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sepik Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>59</diameter>
+    <centerlatitude>-1.01</centerlatitude>
+    <centerlongitude>294.27</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Shalbatana Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1029</diameter>
+    <centerlatitude>7.33</centerlatitude>
+    <centerlongitude>317.91</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Silinka Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>150.93</diameter>
+    <centerlatitude>9.13</centerlatitude>
+    <centerlongitude>331.95</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Simud Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>987.99</diameter>
+    <centerlatitude>19.09</centerlatitude>
+    <centerlongitude>321.99</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Stura Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>75</diameter>
+    <centerlatitude>22.71</centerlatitude>
+    <centerlongitude>142.47</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Subur Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>26.2</diameter>
+    <centerlatitude>11.63</centerlatitude>
+    <centerlongitude>306.85</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sungari Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>344.82</diameter>
+    <centerlatitude>-40.33</centerlatitude>
+    <centerlongitude>88.5</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Surinda Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>80.07</diameter>
+    <centerlatitude>-28.8</centerlatitude>
+    <centerlongitude>324.89</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Surius Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>30.76</diameter>
+    <centerlatitude>-61.2</centerlatitude>
+    <centerlongitude>311.28</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tader Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>200</diameter>
+    <centerlatitude>-48.78</centerlatitude>
+    <centerlongitude>207.7</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tagus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>144.58</diameter>
+    <centerlatitude>-6.68</centerlatitude>
+    <centerlongitude>114.54</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tana Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>56.51</diameter>
+    <centerlatitude>4.78</centerlatitude>
+    <centerlongitude>332.11</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Taus Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>10.4</diameter>
+    <centerlatitude>-4.85</centerlatitude>
+    <centerlongitude>211.68</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Termes Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>55.6</diameter>
+    <centerlatitude>-11.11</centerlatitude>
+    <centerlongitude>202.99</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Teviot Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>143.89</diameter>
+    <centerlatitude>-43.37</centerlatitude>
+    <centerlongitude>102.26</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tigre Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>102.82</diameter>
+    <centerlatitude>-12.02</centerlatitude>
+    <centerlongitude>322.91</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tinia Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>17.83</diameter>
+    <centerlatitude>-4.61</centerlatitude>
+    <centerlongitude>211.12</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tinjar Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>400.58</diameter>
+    <centerlatitude>37.54</centerlatitude>
+    <centerlongitude>124.27</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tinto Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>191.97</diameter>
+    <centerlatitude>-3.97</centerlatitude>
+    <centerlongitude>111.5</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tisia Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>384.05</diameter>
+    <centerlatitude>-10.75</centerlatitude>
+    <centerlongitude>46.72</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tiu Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1720</diameter>
+    <centerlatitude>16.23</centerlatitude>
+    <centerlongitude>325.14</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Trebia Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>179.8</diameter>
+    <centerlatitude>32.08</centerlatitude>
+    <centerlongitude>150.12</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Tyras Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>99.13</diameter>
+    <centerlatitude>8.33</centerlatitude>
+    <centerlongitude>309.85</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Uzboi Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>353.53</diameter>
+    <centerlatitude>-29.46</centerlatitude>
+    <centerlongitude>323.02</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Valles Marineris</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>3761.28</diameter>
+    <centerlatitude>-14.01</centerlatitude>
+    <centerlongitude>301.41</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Varus Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>90.12</diameter>
+    <centerlatitude>-8.57</centerlatitude>
+    <centerlongitude>204.01</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Vedra Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>118</diameter>
+    <centerlatitude>19.12</centerlatitude>
+    <centerlongitude>304.52</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Verde Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>133</diameter>
+    <centerlatitude>-0.5</centerlatitude>
+    <centerlongitude>29.88</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Vichada Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>438.31</diameter>
+    <centerlatitude>-19.87</centerlatitude>
+    <centerlongitude>88.13</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Vistula Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>193</diameter>
+    <centerlatitude>13.41</centerlatitude>
+    <centerlongitude>308.03</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Waikato Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>228.03</diameter>
+    <centerlatitude>-33.33</centerlatitude>
+    <centerlongitude>113.78</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Walla Walla Vallis</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>22.99</diameter>
+    <centerlatitude>-9.88</centerlatitude>
+    <centerlongitude>305.54</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Warrego Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>205.08</diameter>
+    <centerlatitude>-41.84</centerlatitude>
+    <centerlongitude>267.85</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Zarqa Valles</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>21.37</diameter>
+    <centerlatitude>0.32</centerlatitude>
+    <centerlongitude>80.59</centerlongitude>
+    <featuretype code="VA">Vallis, valles</featuretype>
+  </feature>
+</Defs>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <feature>
+    <cleanName>Aeolis Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>852.81</diameter>
+    <centerlatitude>-1.14</centerlatitude>
+    <centerlongitude>144.76</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Amenthes Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>953</diameter>
+    <centerlatitude>3.4</centerlatitude>
+    <centerlongitude>105.92</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Aonia Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>563.45</diameter>
+    <centerlatitude>-57.9</centerlatitude>
+    <centerlongitude>281.33</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Argentea Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1370.64</diameter>
+    <centerlatitude>-72.49</centerlatitude>
+    <centerlongitude>298.33</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ascuris Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>617.66</diameter>
+    <centerlatitude>40.59</centerlatitude>
+    <centerlongitude>279.22</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Aurorae Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>564.49</diameter>
+    <centerlatitude>-10.41</centerlatitude>
+    <centerlongitude>311.38</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Bathys Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>626</diameter>
+    <centerlatitude>-42.66</centerlatitude>
+    <centerlongitude>254</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Bosporos Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>729.58</diameter>
+    <centerlatitude>-33.87</centerlatitude>
+    <centerlongitude>295.51</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Coronae Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>265</diameter>
+    <centerlatitude>-32.68</centerlatitude>
+    <centerlongitude>65.41</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Daedalia Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1922.02</diameter>
+    <centerlatitude>-18.35</centerlatitude>
+    <centerlongitude>234.05</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Erythraeum Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1750</diameter>
+    <centerlatitude>-34.18</centerlatitude>
+    <centerlongitude>295</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Hesperia Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1601.73</diameter>
+    <centerlatitude>-21.42</centerlatitude>
+    <centerlongitude>109.89</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Icaria Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>566.59</diameter>
+    <centerlatitude>-43.27</centerlatitude>
+    <centerlongitude>253.96</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Lucus Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>899.87</diameter>
+    <centerlatitude>-4.99</centerlatitude>
+    <centerlongitude>182.83</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Lunae Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1817.66</diameter>
+    <centerlatitude>10.79</centerlatitude>
+    <centerlongitude>294.49</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Malea Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>872.47</diameter>
+    <centerlatitude>-65.82</centerlatitude>
+    <centerlongitude>62.94</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Meridiani Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1058.53</diameter>
+    <centerlatitude>-0.04</centerlatitude>
+    <centerlongitude>356.86</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Nepenthes Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1650.14</diameter>
+    <centerlatitude>14.01</centerlatitude>
+    <centerlongitude>113.79</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Oenotria Plana</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>61.25</diameter>
+    <centerlatitude>-8.14</centerlatitude>
+    <centerlongitude>76.64</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Olympia Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>804.39</diameter>
+    <centerlatitude>82.18</centerlatitude>
+    <centerlongitude>188.81</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Ophir Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>642.24</diameter>
+    <centerlatitude>-8.45</centerlatitude>
+    <centerlongitude>302.18</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Oxia Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>231.03</diameter>
+    <centerlatitude>17.28</centerlatitude>
+    <centerlongitude>334.29</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Parva Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1027.32</diameter>
+    <centerlatitude>-73.67</centerlatitude>
+    <centerlongitude>264.93</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Planum Angustum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>206.41</diameter>
+    <centerlatitude>-79.8</centerlatitude>
+    <centerlongitude>276.8</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Planum Australe</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1429.87</diameter>
+    <centerlatitude>-83.35</centerlatitude>
+    <centerlongitude>157.7</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Planum Boreum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>354.63</diameter>
+    <centerlatitude>87.32</centerlatitude>
+    <centerlongitude>54.96</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Planum Chronium</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>576.38</diameter>
+    <centerlatitude>-59.14</centerlatitude>
+    <centerlongitude>139.5</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Promethei Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>831.28</diameter>
+    <centerlatitude>-79.18</centerlatitude>
+    <centerlongitude>88.36</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sinai Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>901.44</diameter>
+    <centerlatitude>-13.72</centerlatitude>
+    <centerlongitude>272.24</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Sisyphi Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1032.87</diameter>
+    <centerlatitude>-69.64</centerlatitude>
+    <centerlongitude>6.41</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Solis Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1811.23</diameter>
+    <centerlatitude>-26.4</centerlatitude>
+    <centerlongitude>270.33</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Syria Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>735.74</diameter>
+    <centerlatitude>-12.09</centerlatitude>
+    <centerlongitude>256.1</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Syrtis Major Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>1214.86</diameter>
+    <centerlatitude>9.2</centerlatitude>
+    <centerlongitude>67.1</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Thaumasia Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>799.6</diameter>
+    <centerlatitude>-21.66</centerlatitude>
+    <centerlongitude>294.78</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+  <feature>
+    <cleanName>Zephyria Planum</cleanName>
+    <target>MARS</target>
+    <system>MARS</system>
+    <diameter>575.11</diameter>
+    <centerlatitude>-1.08</centerlatitude>
+    <centerlongitude>153.73</centerlongitude>
+    <featuretype code="PM">Planum, plana</featuretype>
+  </feature>
+</Defs>

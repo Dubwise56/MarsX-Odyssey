@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+	<!-- BAD EVENTS -->
+
+	<IncidentDef>
+		<defName>DustStorm</defName>  
+		<label>dust storm</label>
+    <workerClass>MarsX.IncidentWorker_DustStorm</workerClass>
+		<letterLabel>Dust storm</letterLabel>
+		<letterText>A dust storm has developed nearby and is heading our way.</letterText>
+		<letterDef>NegativeEvent</letterDef>
+		<baseChance>3</baseChance>
+		<earliestDay>10</earliestDay>
+		<minRefireDays>10</minRefireDays>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <category>Misc</category>
+	</IncidentDef>
+
+	<IncidentDef>
+		<defName>HighAltitudePlume</defName>  
+		<label>high altitude plume</label>
+    <workerClass>IncidentWorker_MakeGameCondition</workerClass>
+    <gameCondition>HighAltitudePlume</gameCondition>
+    <letterLabel>Plume</letterLabel>
+    <letterText>A plume is seen reaching high above the surface of the planet and blocks the sun.</letterText>
+    <letterDef>NegativeEvent</letterDef>
+    <baseChance>1</baseChance>
+    <durationDays>
+      <min>0.75</min>
+		<max>3.25</max>
+    </durationDays>
+    <targetTags>
+      <li>World</li>
+    </targetTags>
+    <category>Misc</category>
+
+  </IncidentDef>
+
+	<IncidentDef>
+		<defName>DustDevils</defName>  
+		<label>Dust Devils</label>
+		<workerClass>MarsX.IncidentWorker_DustDevils</workerClass>
+		<letterLabel>Dust Devils</letterLabel>
+		<letterText>A group of dust devils are moving through this region.</letterText>
+		<letterDef>NegativeEvent</letterDef>
+		<baseChance>5</baseChance>
+		<minRefireDays>5</minRefireDays>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <category>Misc</category>
+	</IncidentDef>
+
+
+
+	<!-- SUPER BAD -->
+
+	<IncidentDef>
+		<defName>SolarFlare</defName>
+		<label>SPE</label>
+		<workerClass>IncidentWorker_MakeGameCondition</workerClass>
+		<gameCondition>SolarFlare</gameCondition>
+		<letterLabel>SPE</letterLabel>
+		<letterText>A solar particle event has begun.\n\nThe intense radiation will shut down all electrical devices and cause radiation poisoning to anyone outside.\n\nIt should pass in about a day.</letterText>
+		<letterDef>ThreatBig</letterDef>
+		<category>ThreatBig</category>
+		<baseChance>2.0</baseChance>
+		<minRefireDays>20</minRefireDays>
+		<durationDays>
+			<min>0.35</min>
+			<max>1</max>
+		</durationDays>
+		<earliestDay>10</earliestDay>
+    <targetTags>
+      <li>World</li>
+    </targetTags>	
+</IncidentDef>
+
+	<IncidentDef>
+		<defName>MajorDustStorm</defName>  
+		<label>major dust storm</label>
+    <workerClass>MarsX.IncidentWorker_MajorDustStorm</workerClass>
+		<letterLabel>Major dust storm</letterLabel>
+		<letterText>dust storm.</letterText>
+		<letterDef>ThreatBig</letterDef>
+		<baseChance>0.5</baseChance>
+		<category>ThreatBig</category>
+		<earliestDay>10</earliestDay>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+</IncidentDef>
+
+
+	<IncidentDef>
+		<defName>DustDevilBig</defName>
+		<label>Huge Dust Devil</label>
+		<workerClass>MarsX.IncidentWorker_DustDevilBig</workerClass>
+		<letterLabel>Huge Dust Devil</letterLabel>
+		<letterText>A huge dust devil is moving through this area.</letterText>
+		<letterDef>ThreatBig</letterDef>
+		<baseChance>1.5</baseChance>
+		<category>ThreatBig</category>
+		<earliestDay>5</earliestDay>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+	</IncidentDef>
+
+</Defs>

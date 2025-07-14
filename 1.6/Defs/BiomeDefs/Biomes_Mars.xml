@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <FeatureDef>
+    <defName>PlanetFeature</defName>
+    <workerClass>MarsX.FeatureWorker_Planet</workerClass>
+    <order>10</order>
+    <minSize>15</minSize>
+    <maxSize>350</maxSize>
+  </FeatureDef>
+  
+  <BiomeDef Name="BaseMarsBiome">
+    <defName>MarsSurface</defName>
+    <label>Mars Surface</label>
+    <description>The surface of mars</description>
+    <workerClass>MarsX.BiomeWorker_Mars</workerClass>
+    <allowRoads>false</allowRoads>
+    <allowRivers>false</allowRivers>
+    <allowFarmingCamps>false</allowFarmingCamps>
+    <inVacuum>true</inVacuum>
+    <texture>World/Biomes/Planum</texture>
+    <animalDensity>0</animalDensity>
+    <plantDensity>0</plantDensity>
+    <wildAnimalsCanWanderInto>false</wildAnimalsCanWanderInto>
+    <hasVirtualPlants>false</hasVirtualPlants>
+    <settlementSelectionWeight>0.9</settlementSelectionWeight>
+    <movementDifficulty>1</movementDifficulty>
+    <lakeBeachTerrain>RegolithMars</lakeBeachTerrain>
+    <riverbankTerrain>RegolithMars</riverbankTerrain>
+    <forageability>0</forageability>
+    <isExtremeBiome>true</isExtremeBiome>
+    <soundsAmbient>
+      <li>Ambient_Wind_Desolate</li>
+    </soundsAmbient>
+    <diseaseMtbDays>90</diseaseMtbDays>
+    <diseases>
+      <li>
+        <diseaseInc>Disease_Flu</diseaseInc>
+        <commonality>100</commonality>
+      </li>
+      <li>
+        <diseaseInc>Disease_Plague</diseaseInc>
+        <commonality>80</commonality>
+      </li>
+      <li>
+        <diseaseInc>Disease_GutWorms</diseaseInc>
+        <commonality>40</commonality>
+      </li>
+      <li>
+        <diseaseInc>Disease_MuscleParasites</diseaseInc>
+        <commonality>40</commonality>
+      </li>
+      <li>
+        <diseaseInc>Disease_FibrousMechanites</diseaseInc>
+        <commonality>30</commonality>
+      </li>
+      <li>
+        <diseaseInc>Disease_SensoryMechanites</diseaseInc>
+        <commonality>30</commonality>
+      </li>
+
+      <li>
+        <diseaseInc>Disease_AnimalFlu</diseaseInc>
+        <commonality>100</commonality>
+      </li>
+      <li>
+        <diseaseInc>Disease_AnimalPlague</diseaseInc>
+        <commonality>80</commonality>
+      </li>
+      <li>
+        <diseaseInc>Disease_OrganDecay</diseaseInc>
+        <commonality>10</commonality>
+      </li>
+    </diseases>
+    <terrainsByFertility>
+      <li>
+        <terrain>IcyRegolith</terrain>
+        <min>-999</min>
+        <max>0.80</max>
+      </li>
+      <li>
+        <terrain>RockyRegolith</terrain>
+        <min>0.80</min>
+        <max>999</max>
+      </li>
+    </terrainsByFertility>
+    <terrainPatchMakers>
+      <!--<li>
+        <perlinFrequency>0.028</perlinFrequency>
+        <thresholds>
+          <li>
+            <terrain>Gravel</terrain>
+            <min>0.4</min>
+            <max>999</max>
+          </li>
+        </thresholds>
+      </li>-->
+      <li>
+        <perlinFrequency>0.027</perlinFrequency>
+        <thresholds>
+          <li>
+            <terrain>RockyRegolith</terrain>
+            <min>0.22</min>
+            <max>999</max>
+          </li>
+        </thresholds>
+      </li>
+      <li>
+        <perlinFrequency>0.015</perlinFrequency>
+        <thresholds>
+          <li>
+            <terrain>Clay</terrain>
+            <min>0.66</min>
+            <max>999</max>
+          </li>
+        </thresholds>
+      </li>
+    </terrainPatchMakers>
+    <baseWeatherCommonalities>
+      <Clear>18</Clear>
+      <WindyMars>4</WindyMars>
+      <Sandstorm MayRequire="Ludeon.RimWorld.Odyssey">2</Sandstorm>
+    </baseWeatherCommonalities>
+    <wildPlants>
+    </wildPlants>
+    <wildAnimals>
+    </wildAnimals>
+    <allowedPackAnimals>
+    </allowedPackAnimals>
+    <forceRockTypes>
+      <li>Basalt</li>
+      <li>Sandstone</li>
+    </forceRockTypes>
+  </BiomeDef>
+
+  <BiomeDef ParentName="BaseMarsBiome">
+    <defName>Planum</defName>
+    <label>Planum</label>
+    <description>A plateau or high plain.</description>
+    <texture>World/Biomes/Planum</texture>
+  </BiomeDef>
+
+  <BiomeDef ParentName="BaseMarsBiome">
+    <defName>Chaos</defName>
+    <label>Chaos</label>
+    <description>Chaos.</description>
+    <texture>World/Biomes/Chaos</texture>
+  </BiomeDef>
+
+  <BiomeDef ParentName="BaseMarsBiome">
+    <defName>Terra</defName>
+    <label>Terra</label>
+    <description>Terra.</description>
+    <texture>World/Biomes/Terra</texture>
+  </BiomeDef>
+
+  <BiomeDef ParentName="BaseMarsBiome">
+    <defName>Planetia</defName>
+    <label>Planetia</label>
+    <description>Low plain.</description>
+    <texture>World/Biomes/Planetia</texture>
+  </BiomeDef>
+
+  <BiomeDef ParentName="BaseMarsBiome">
+    <defName>Mons</defName>
+    <label>Mons</label>
+    <description>Low plain.</description>
+    <texture>World/Biomes/Mons</texture>
+  </BiomeDef>
+
+  <BiomeDef ParentName="BaseMarsBiome">
+    <defName>Valles</defName>
+    <label>Valles</label>
+    <description>Low plain.</description>
+    <texture>World/Biomes/Valles</texture>
+  </BiomeDef>
+
+  <BiomeDef ParentName="BaseMarsBiome">
+    <defName>Crater</defName>
+    <label>Crater</label>
+    <description>Low plain.</description>
+    <texture>World/Biomes/Crater</texture>
+  </BiomeDef>
+
+  <BiomeDef ParentName="BaseMarsBiome">
+    <defName>IceSheet</defName>
+    <label>Ice Sheet</label>
+    <description>Martian ice cap.</description>
+    <texture>World/Biomes/IceSheet</texture>
+    <terrainsByFertility>
+      <li>
+        <terrain>Ice</terrain>
+        <min>-999</min>
+        <max>999</max>
+      </li>
+    </terrainsByFertility>
+  </BiomeDef>
+
+</Defs>
