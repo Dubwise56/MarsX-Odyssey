@@ -1,13 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-	<name>MarsX - Odyssey - INTERNAL</name>
+	<name>MarsX - Odyssey</name>
 	<author>Dubwise</author>
-	<url></url>
+	<url>https://github.com/Dubwise56/MarsX-Odyssey</url>
 	<modVersion>1.0.42</modVersion>
-	<packageId>Dubwise.MarsX.dev</packageId>
-	  <supportedVersions>
-    <li>1.6</li>
-  </supportedVersions>
-	<description>INTERNAL BUILD</description>
+	<packageId>Dubwise.MarsX.Odyssey</packageId>
+	<supportedVersions>
+    	<li>1.6</li>
+ 	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Odyssey</packageId>
+            <displayName>Odyssey</displayName>
+		</li>
+	</modDependencies>
+	<forceLoadAfter>
+    	<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Odyssey</li>
+  	</forceLoadAfter>
+	<description>MarsX adds the planet Mars as a planet to play on, add the planet scenario part to any scenario and you can pick Mars as the planet</description>
 </ModMetaData>
